@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<krpano>
+
+<!-- ************************ -->
+<!--         Messages         -->
+<!-- ************************ -->
+
+  <data name="ru_project_title"><![CDATA[New Project]]></data>
+
+
+  <data name="ru_panogroup40_title"><![CDATA[Group Tour]]></data>
+
+  <data name="ru_pano100_title"><![CDATA[Улица]]></data>
+  <data name="ru_spotpolygon107_tooltip"><![CDATA[Главный холл]]></data>
+  <data name="ru_spotpoint223_tooltip"><![CDATA[Главный холл]]></data>
+  <data name="ru_pano39_title"><![CDATA[Главный холл]]></data>
+  <data name="ru_spotpolygon111_tooltip"><![CDATA[Выставка Рюриковичи]]></data>
+  <data name="ru_spotpolygon113_tooltip"><![CDATA[Улица]]></data>
+  <data name="ru_spotpoint301_tooltip"><![CDATA[Улица]]></data>
+  <data name="ru_spotpoint303_tooltip"><![CDATA[Выставка Рюриковичи]]></data>
+  <data name="ru_pano38_title"><![CDATA[Выставка Рюриковичи]]></data>
+  <data name="ru_spotpolygon114_tooltip"><![CDATA[Главный холл]]></data>
+  <data name="ru_spotpolygon117_tooltip"><![CDATA[Зал Рюриковича с братьями]]></data>
+  <data name="ru_spotpoint309_tooltip"><![CDATA[Главный холл]]></data>
+  <data name="ru_spotpoint310_tooltip"><![CDATA[Зал Рюриковича с братьями]]></data>
+  <data name="ru_pano118_title"><![CDATA[Зал Рюриковича с братьями]]></data>
+  <data name="ru_spotpolygon124_tooltip"><![CDATA[Выставка Рюриковичи]]></data>
+  <data name="ru_spotpolygon132_tooltip"><![CDATA[Зал с князем Владимиром]]></data>
+  <data name="ru_spotpoint311_tooltip"><![CDATA[Выставка Рюриковичи]]></data>
+  <data name="ru_spotpoint312_tooltip"><![CDATA[Зал с князем Владимиром]]></data>
+  <data name="ru_pano125_title"><![CDATA[Зал с князем Владимиром]]></data>
+  <data name="ru_spotpolygon131_tooltip"><![CDATA[Зал Рюриковича с братьями]]></data>
+  <data name="ru_spotpoint368_tooltip"><![CDATA[Зал Рюриковича с братьями]]></data>
+  <data name="ru_spotpoint373_tooltip"><![CDATA[Зал Князя-Миротворца]]></data>
+  <data name="ru_pano370_title"><![CDATA[Зал Князя-Миротворца]]></data>
+  <data name="ru_spotpoint374_tooltip"><![CDATA[Зал с князем Владимиром]]></data>
+  <data name="ru_spotpoint427_tooltip"><![CDATA[Зал Раздробленности]]></data>
+  <data name="ru_pano415_title"><![CDATA[Зал Раздробленности]]></data>
+  <data name="ru_spotpoint428_tooltip"><![CDATA[Зал Князя-Миротворца]]></data>
+  <data name="ru_spotpoint431_tooltip"><![CDATA[Зал про Русь под Властью Орды]]></data>
+  <data name="ru_pano406_title"><![CDATA[Зал про Русь под Властью Орды]]></data>
+  <data name="ru_spotpoint433_tooltip"><![CDATA[Зал Раздробленности]]></data>
+  <data name="ru_spotpoint434_tooltip"><![CDATA[Зал Александра Невского]]></data>
+  <data name="ru_pano409_title"><![CDATA[Зал Александра Невского]]></data>
+  <data name="ru_spotpoint436_tooltip"><![CDATA[Зал про Русь под Властью Орды]]></data>
+  <data name="ru_spotpoint437_tooltip"><![CDATA[Зал усиления Москвы]]></data>
+  <data name="ru_pano412_title"><![CDATA[Зал усиления Москвы]]></data>
+  <data name="ru_spotpoint438_tooltip"><![CDATA[Зал Александра Невского]]></data>
+
+
+	<data name="ru_spotmap84_tooltip"><![CDATA[Улица]]></data>
+	<data name="ru_spotmap85_tooltip"><![CDATA[Улица]]></data>
+	<data name="ru_spotmap480_tooltip"><![CDATA[Улица]]></data>
+	<data name="ru_spotmap481_tooltip"><![CDATA[Зал Рюриковича с братьями]]></data>
+	<data name="ru_spotmap482_tooltip"><![CDATA[Зал с князем Владимиром]]></data>
+	<data name="ru_spotmap483_tooltip"><![CDATA[Зал Князя-Миротворца]]></data>
+	<data name="ru_spotmap484_tooltip"><![CDATA[Зал Раздробленности]]></data>
+	<data name="ru_spotmap485_tooltip"><![CDATA[Зал про Русь под Властью Орды]]></data>
+	<data name="ru_spotmap486_tooltip"><![CDATA[Зал Александра Невского]]></data>
+	<data name="ru_spotmap487_tooltip"><![CDATA[Зал усиления Москвы]]></data>
+
+
+	<data name="ru_project_floor_title"><![CDATA[New Project]]></data>
+	<data name="ru_spotmap168_tooltip"><![CDATA[Главный холл]]></data>
+	<data name="ru_spotmap169_tooltip"><![CDATA[Выставка Рюриковичи]]></data>
+	<data name="ru_spotmap170_tooltip"><![CDATA[Зал Рюриковича с братьями]]></data>
+	<data name="ru_spotmap171_tooltip"><![CDATA[Зал с князем Владимиром]]></data>
+	<data name="ru_spotmap439_tooltip"><![CDATA[Зал Князя-Миротворца]]></data>
+	<data name="ru_spotmap440_tooltip"><![CDATA[Зал Раздробленности]]></data>
+	<data name="ru_spotmap441_tooltip"><![CDATA[Зал про Русь под Властью Орды]]></data>
+	<data name="ru_spotmap442_tooltip"><![CDATA[Зал Александра Невского]]></data>
+	<data name="ru_spotmap443_tooltip"><![CDATA[Зал усиления Москвы]]></data>
+
+
+  <data name="ru_contextmenuopenFsLabel"><![CDATA[Enter Fullscreen]]></data>
+  <data name="ru_contextmenucloseFsLabel"><![CDATA[Exit Fullscreen]]></data>
+  <data name="ru_contextmenunormallabel"><![CDATA[Normal View]]></data>
+  <data name="ru_contextmenuarchitecturallabel"><![CDATA[Architectural View]]></data>
+  <data name="ru_contextmenulittleplanetlabel"><![CDATA[Little Planet View]]></data>
+  <data name="ru_floorPlanmenu_label"><![CDATA[Select a floor plan]]></data>
+
+
+  <data name="ru_vr_setup_hmd0"><![CDATA[SELECT YOUR HMD]]></data>
+  <data name="ru_vr_setup_advanced"><![CDATA[ADVANCED SETTINGS]]></data>
+  <data name="ru_vr_setup_title"><![CDATA[WEB VR SETTINGS]]></data>
+  <data name="ru_vr_setup_dvn1"><![CDATA[Device:]]></data>
+  <data name="ru_vr_setup_siz1"><![CDATA[Screen size:]]></data>
+  <data name="ru_vr_setup_ipd1"><![CDATA[IPD:]]></data>
+  <data name="ru_vr_setup_hmd1"><![CDATA[HMD:]]></data>
+  <data name="ru_vr_setup_hmd3"><![CDATA[Customize]]></data>
+  <data name="ru_vr_setup_cal"><![CDATA[Calibrate gyroscope]]></data>
+  <data name="ru_vr_setup_sav"><![CDATA[SAVE]]></data>
+  <data name="ru_vr_setup_rst"><![CDATA[RESET]]></data>
+  <data name="ru_vr_setup_simple"><![CDATA[SIMPLE]]></data>
+  <data name="ru_vr_setup_cls"><![CDATA[CLOSE]]></data>
+  <data name="ru_vr_setup_m31"><![CDATA[HMD SETTINGS]]></data>
+  <data name="ru_vr_setup_fov1"><![CDATA[FOV:]]></data>
+  <data name="ru_vr_setup_dst1"><![CDATA[Distortion:]]></data>
+  <data name="ru_vr_setup_d2tx"><![CDATA[Distortion 2:]]></data>
+  <data name="ru_vr_setup_vig1"><![CDATA[Vignette:]]></data>
+  <data name="ru_vr_setup_cac1"><![CDATA[Chromatic aberration:]]></data>
+  <data name="ru_vr_setup_olp1"><![CDATA[Overlap:]]></data>
+  <data name="ru_vr_setup_m35"><![CDATA[RETURN]]></data>
+  <data name="ru_vr_setup_cb1"><![CDATA[GYROSCOPE]]></data>
+  <data name="ru_vr_setup_cb2"><![CDATA[Place the device on a flat and[br]stable surface and tab CALIBRATE[br]to correct a gyroscope drifting.]]></data>
+  <data name="ru_vr_setup_cb3"><![CDATA[CALIBRATE]]></data>
+  <data name="ru_vr_setup_cb4"><![CDATA[RESET]]></data>
+  <data name="ru_vr_setup_cb5"><![CDATA[RETURN]]></data>
+  <data name="ru_vr_setup_cb6"><![CDATA[Calibrating...]]></data>
+  <data name="ru_vr_setup_cb7"><![CDATA[Successful calibration]]></data>
+  <data name="ru_vr_setup_cb8"><![CDATA[Calibration failed]]></data>
+  <data name="ru_vr_setup_unavailable"><![CDATA[VR mode[br]is unavailable on your device]]></data>
+
+
+  <data name="ru_project_description"><![CDATA[<div><b>Исторический парк в Южно-Сахалинске, как и в других городах, представлен тремя большими тематическими разделами - «Рюриковичи», «Романовы», «От великих потрясений к Великой Победе», а также проектом, посвященным истории России с 1945 по 2017 год. Все разделы представлены тематическими экспозициями, в которых повествуется об истории нашего государства. Немаловажно и то, что в экспозицию включены материалы по истории нашей островной области.</b></div><div><b>Исторический парк «Россия - моя история» - первый исторический проект, который охватывает всю историю России, в том числе рассказывающий об истории региона и важнейших ее событиях. Проект был создан творческой группой под эгидой Патриаршего Совета по культуре и получил поддержку Администрации Президента Российской Федерации, Министерства культуры Российской Федерации, Министерства образования и науки России и Правительства Москвы.</b></div>]]></data>
+
+
+  <data name="ru_pano100_description"><![CDATA[<div><div><font size="4" face="verdana, sans-serif"><b>Добро пожаловать в виртуальную экскурсию по историческому парку Россия - моя история!</b></font></div><br></div><div><font size="4" face="verdana, sans-serif"><b>Исторический парк в Южно-Сахалинске, как и в других городах, представлен тремя большими тематическими разделами - «Рюриковичи», «Романовы», «От великих потрясений к Великой Победе», а также проектом, посвященным истории России с 1945 по 2017 год. Все разделы представлены тематическими экспозициями, в которых повествуется об истории нашего государства. Немаловажно и то, что в экспозицию включены материалы по истории нашей островной области.</b></font></div><div><font size="4" face="verdana, sans-serif"><b>Исторический парк «Россия - моя история» - первый исторический проект, который охватывает всю историю России, в том числе рассказывающий об истории региона и важнейших ее событиях. Проект был создан творческой группой под эгидой Патриаршего Совета по культуре и получил поддержку Администрации Президента Российской Федерации, Министерства культуры Российской Федерации, Министерства образования и науки России и Правительства Москвы.</b></font></div>]]></data>
+
+  <data name="ru_pano39_description"><![CDATA[<b><font size="6" face="verdana, sans-serif">Главный холл исторического парка!</font></b><div><font face="verdana, sans-serif"><b><br></b><font size="4">Слева, в кассе вы можете преобрести билет для посещения экскурсии.</font></font></div><div><font face="verdana, sans-serif"><br></font></div><div><font face="verdana, sans-serif" size="4">У стойки администратора вам ответят на все интересующие вас вопросы при посещении парка в живую.</font></div><div><font face="verdana, sans-serif" size="4"><br></font></div><div><font face="verdana, sans-serif" size="4">Пройдя прямо, вы сможете посетить выставки представленные в данном парке</font></div>]]></data>
+
+  <data name="ru_spotpoint306_description"><![CDATA[<font face="trebuchet ms, sans-serif" size="4">Это Ванька, наш помощник! Он с радостью</font><div><font face="trebuchet ms, sans-serif" size="4">проведет вам экскурсию нашего парка!</font></div><div><font size="4"><br></font></div><div><br></div><div><br></div>]]></data>
+  <data name="ru_pano38_description"><![CDATA[<div><font size="4" face="verdana, sans-serif"><b>В первом зале мы познакомимся с праисторией.</b>&nbsp;</font></div><div><font size="4" face="verdana, sans-serif">В каждом зале расположены карты, обратившись к которым вы можете проследить,&nbsp;как менялись границы территории страны в разный период времени. Интерактивный стол, стоящий в центре зала, отправит вас на 5000 лет назад.&nbsp;Здесь представлен уникальный памятник бронзового века – поселение Аркаим. Можно посмотреть его описание, планировку, доступен формат 3D.</font></div><div><font size="4" face="verdana, sans-serif"><br></font></div><div><font size="4" face="verdana, sans-serif">На территории Руси селилось большое количество племён. Название каждого племени происходило от места поселения или от имени прародителя.</font></div><div><font size="4" face="verdana, sans-serif">Например, у кривичей прародителя звали Крива, а у вятичей – Вятко. Тиверцы жили вдоль реки Тивр. Из-за бесконечных распрей между племенами,&nbsp;старейшины решили призвать на княжение постороннего человека. С таким предложением выступил старейшина ильменских словен – Гостомысл. Среди&nbsp;варяг у него был внук – Рюрик, он и откликнулся на призыв.</font></div><div><font size="4" face="verdana, sans-serif"><br></font></div><div><br></div><div><font face="verdana, sans-serif" size="4"><br></font></div><div><font face="verdana, sans-serif" size="4"><br></font></div>]]></data>
+
+  <data name="ru_pano118_description"><![CDATA[<font face="verdana, sans-serif" size="4"><b>Второй зал</b> расскажет вам как Рюрик прибыл вместе с братьями, Синеусом и Трувором, которые сели княжить в Изборске и Белоозере. После их смерти Рюрик объединил все племена и создал единое войско. Его резиденцией стало Рюрикова Городище, рядом с которым вырос Великий Новгород, первая столица Русии.&nbsp;</font><div><font face="verdana, sans-serif" size="4">На следующих стэндах представлены наследники Рюрика: его родственник князь Олег, заключивший первый в истории Русии международный договор с Византийской империей. Он же перенёс столицу в Киев. Сын Рюрика князь Игорь, погибший от своей алчности. Княгиня Ольга, сумевшая удержать контроль над большей частью восточнославянских земель и первая правительница, принявшая крещение. Сын Игоря и Ольги, князь Святослав, закалявший свой характер в военных походах уже с 10-летнего возраста. Более подробную информацию об этом историческом периоде вы сможете узнать, заглянув винформационные киоски.</font></div>]]></data>
+
+  <data name="ru_pano125_description"><![CDATA[<font size="4" face="verdana, sans-serif"><b>В этом зале вы ознакомитесь с Крестителем Руси.</b></font><div><font size="4" face="verdana, sans-serif"><br></font></div><div><div><font size="4" face="verdana, sans-serif">Перед вами князь Владимир, сын Святослава. Владимир, был убежденным язычником, и в начале своего правления попытался установить языческий культ. В девятьсот 80 восьмом году Владимир, а с ним и вся Русь примут крещение. В кинозале №1 вы сможете посмотреть небольшой фильм о том, как происходил выбор христианской веры князем Владимиром.&nbsp;</font></div><div><font size="4" face="verdana, sans-serif">После принятия христианства Владимир решил еще больше приблизиться к Византии и начал чеканку собственных монет – златников. Князь желал показать всему миру, что есть такое государство, Русь, а не простой союз племён, что оно православное – на лицевой стороне златника изображался Иисус Христос. Что у государства есть князь с легитимной властью, который чеканит свою монету, на оборотной стороне изображался сам Владимир. Не найдено златников с изображением других князей, поэтому можно предположить, что златники чеканил только Владимир.</font></div></div><div><font size="4" face="verdana, sans-serif"><br></font></div><div><font size="4" face="verdana, sans-serif">Князь Владимир, сын Святослава</font></div><div><font size="4" face="verdana, sans-serif">Первый кто принял крещение</font></div><div><font size="4" face="verdana, sans-serif"><br></font></div><div><font size="4" face="verdana, sans-serif"><br></font></div>]]></data>
+
+
+
+
+
+
+
+</krpano>
